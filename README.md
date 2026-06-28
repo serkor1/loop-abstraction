@@ -10,6 +10,8 @@ This is repository is me playing around with C.
 
 > Make is a dirty secret among developers - none of us understand it, we just borrow a make script from somebody else and change it. I imagine only one script was ever written from scratch (probably by the creator of the tool).
 
+* There is an amazing source here: https://makefiletutorial.com/#makefile-cookbook
+
 See https://stackoverflow.com/a/220177.
 
 3. Executables and libraries are **not** same.
