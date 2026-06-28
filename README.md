@@ -8,6 +8,11 @@ This is repository is me playing around with C.
 
 2. GNU Make is a public secret:
 
-> Make is a dirty secret among developers - none of us understand it, we just borrow a make script from somebody else and change it. I imagine only one script was ever written from scratch (probably by the creator of the tool)
+> Make is a dirty secret among developers - none of us understand it, we just borrow a make script from somebody else and change it. I imagine only one script was ever written from scratch (probably by the creator of the tool).
 
 See https://stackoverflow.com/a/220177.
+
+3. Executables and libraries are **not** same.
+
+> The .o's are executables and the .so and .a are libraries
+> comparable to R packages.
