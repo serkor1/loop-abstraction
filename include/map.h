@@ -2,8 +2,8 @@
 #define __MAP__
 
 void map( 
-    int input[], 
-    int output[],
+    int *restrict input, 
+    int *restrict output,
     int length,
     void (*function)(int* input, int* output)
 );
