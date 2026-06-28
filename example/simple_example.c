@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "map.h"
+#include "macros.h"
 
 // define a simple function
 // that adds integers
@@ -16,7 +17,7 @@ int main() {
     // points
     int *input_pointer = input_pointer;
     int *output_pointer = output_pointer;
-    int length = sizeof(output_array) / sizeof(output_array[0]);
+    int length = array_size(output_array);
 
 
     map(
